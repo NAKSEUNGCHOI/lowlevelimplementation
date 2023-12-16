@@ -21,7 +21,7 @@ Simple Low Level DSA implementation from scratch in C
 
 ### Executing program
 
-* GCC required.
+* make (to run Makefile)
 
 ## Author
 
